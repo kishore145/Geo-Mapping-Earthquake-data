@@ -9,11 +9,11 @@ function createMap(properties){
   });
 
   var baseMaps = {
-  "Initial Map" : lightmap
+  "Base World Map" : lightmap
   };
 
   var overlayMaps = {
-  "Properties" : properties
+  "Earth Quake Info" : properties
   };
 
 
